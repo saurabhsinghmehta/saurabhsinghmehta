@@ -12,7 +12,7 @@
 
 📧 Email - saurabhsingh.bba17@gmail.com
 
-💼 Portfolio - [https://saurabhsinghmehta.github.io/)
+💼 Portfolio - https://saurabhsinghmehta.github.io/
 
 
 ## 🌐 Socials
