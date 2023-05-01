@@ -10,7 +10,7 @@
 
 🚀 I have learned couple of CSS libraries like Chakra UI, Bootstrap & styled-components.
 
-📧 Email - saurabhsingh.bba17@gmail.com
+📧 Email - saurabhsingh95573@gmail.com
 
 💼 Portfolio - https://saurabhsinghmehta.github.io/
 
